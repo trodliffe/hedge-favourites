@@ -7,4 +7,4 @@ The aim of this project is to pull in the holdings of the largest US hedge funds
 - [ ] 3. On a test CIK, pull all holdings data going back as far as possible (how far is that online?) to a usuable format (.csv?). Should be possible to then loop this code over all relevant CIKs and Accession No's.
     
 ## Price Data
-- [ ] ---[Use a free service such as Yahoo API? Need to investigate where too get price info, tick data not required]---
+- [ ] ---[Use a free service such as Yahoo API? Need to investigate where to get price info, tick data not required]---
